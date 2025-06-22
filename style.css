@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   background-color: rgb(221, 45, 221);
+  
+}
+
+.title{
+    padding: 1em;
+    font-size: 60px;
+    text-align: center;
+}
+
+.text p{
+    padding: 1em;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+.container {
+    margin: 0 auto;
+    padding: 0 10px;
+    max-width: 450px;
+}
+.countdown {
+    margin: 100px 0;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.item {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.days-text {
+}
+.days {
+}
+.hours-text {
+}
+.hours {
+}
+.minutes-text {
+}
+.minutes {
+}
+.seconds-text {
+}
+.seconds {
+}
+
+dt {
+    font-size: 30px;
+    font-weight: 700;
+
+}
+dd {
+    font-size:50px;
+    font-weight: 700;
+}
