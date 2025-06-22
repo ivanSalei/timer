@@ -13,6 +13,7 @@ body{
     padding: 1em;
     font-size: 60px;
     text-align: center;
+    text-transform: uppercase;
 }
 
 .text p{
